@@ -1,4 +1,6 @@
 public class Main {
+
+    //Test
     static int[] amounts = new int[100];
     static String[] borrowers = new String[100];
     static boolean[] isPaid = new boolean[100];
