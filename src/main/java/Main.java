@@ -1,4 +1,5 @@
 public class Main {
+<<<<<<< HEAD
 
     //Test
     static int[] amounts = new int[100];
